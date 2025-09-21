@@ -17,5 +17,5 @@ It helps in early diagnosis by classifying MRI scans into **Tumor** or **No Tumo
 ## 🏗️ Tech Stack
 - **ML/DL:** TensorFlow / PyTorch  
 - **Backend:** Python (Flask / FastAPI)  
-- 
+
 
