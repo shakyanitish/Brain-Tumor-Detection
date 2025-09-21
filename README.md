@@ -19,6 +19,3 @@ It helps in early diagnosis by classifying MRI scans into **Tumor** or **No Tumo
 - **Backend:** Python (Flask / FastAPI)  
 - 
 
----
-
-## 📂 Project Structure
